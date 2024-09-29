@@ -1,0 +1,1 @@
+Las Pistas de Texto (Text Tracks) son una función de HTML5 que permite mostrar texto activado por tiempo al usuario final. El formato compatible con VideoJS es VTT, que es la abreviatura de WebVTT (Web Video Text Tracks), un tipo de archivo de texto diseñado específicamente para subtítulos y descripciones en video.
